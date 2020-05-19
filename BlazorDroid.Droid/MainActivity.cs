@@ -67,7 +67,7 @@ namespace BlazorDroid.Droid
                 if (web != null)
                 {
                     Snackbar.Make(CurrentFocus, "Refreshing...", Snackbar.LengthLong).SetAction("Action", (Android.Views.View.IOnClickListener)null).Show();
-                    web.RefreshDrawableState();
+                    web.Reload();
                 }
                 return true;
             }
