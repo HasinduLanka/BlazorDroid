@@ -3220,8 +3220,8 @@ namespace BlazorDroid.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F080018
-			public const int actions = 2131230744;
+			// aapt resource value: 0x7F080019
+			public const int actions = 2131230745;
 			
 			// aapt resource value: 0x7F080006
 			public const int action_bar = 2131230726;
@@ -3272,154 +3272,154 @@ namespace BlazorDroid.Droid
 			public const int action_mode_close_button = 2131230741;
 			
 			// aapt resource value: 0x7F080016
-			public const int action_settings = 2131230742;
+			public const int action_opb = 2131230742;
 			
 			// aapt resource value: 0x7F080017
-			public const int action_text = 2131230743;
+			public const int action_ref = 2131230743;
 			
-			// aapt resource value: 0x7F080019
-			public const int activity_chooser_view_content = 2131230745;
+			// aapt resource value: 0x7F080018
+			public const int action_text = 2131230744;
 			
 			// aapt resource value: 0x7F08001A
-			public const int add = 2131230746;
+			public const int activity_chooser_view_content = 2131230746;
 			
 			// aapt resource value: 0x7F08001B
-			public const int alertTitle = 2131230747;
+			public const int add = 2131230747;
 			
 			// aapt resource value: 0x7F08001C
-			public const int all = 2131230748;
+			public const int alertTitle = 2131230748;
+			
+			// aapt resource value: 0x7F08001D
+			public const int all = 2131230749;
 			
 			// aapt resource value: 0x7F080000
 			public const int ALT = 2131230720;
 			
-			// aapt resource value: 0x7F08001D
-			public const int always = 2131230749;
-			
 			// aapt resource value: 0x7F08001E
-			public const int async = 2131230750;
+			public const int always = 2131230750;
 			
 			// aapt resource value: 0x7F08001F
-			public const int auto = 2131230751;
+			public const int async = 2131230751;
 			
 			// aapt resource value: 0x7F080020
-			public const int beginning = 2131230752;
+			public const int auto = 2131230752;
 			
 			// aapt resource value: 0x7F080021
-			public const int blocking = 2131230753;
+			public const int beginning = 2131230753;
 			
 			// aapt resource value: 0x7F080022
-			public const int bottom = 2131230754;
+			public const int blocking = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int browser_actions_header_text = 2131230755;
-			
-			// aapt resource value: 0x7F080026
-			public const int browser_actions_menu_items = 2131230758;
+			public const int bottom = 2131230755;
 			
 			// aapt resource value: 0x7F080024
-			public const int browser_actions_menu_item_icon = 2131230756;
-			
-			// aapt resource value: 0x7F080025
-			public const int browser_actions_menu_item_text = 2131230757;
+			public const int browser_actions_header_text = 2131230756;
 			
 			// aapt resource value: 0x7F080027
-			public const int browser_actions_menu_view = 2131230759;
+			public const int browser_actions_menu_items = 2131230759;
+			
+			// aapt resource value: 0x7F080025
+			public const int browser_actions_menu_item_icon = 2131230757;
+			
+			// aapt resource value: 0x7F080026
+			public const int browser_actions_menu_item_text = 2131230758;
 			
 			// aapt resource value: 0x7F080028
-			public const int buttonPanel = 2131230760;
+			public const int browser_actions_menu_view = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int center = 2131230761;
+			public const int buttonPanel = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int center_horizontal = 2131230762;
+			public const int center = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int center_vertical = 2131230763;
+			public const int center_horizontal = 2131230763;
 			
 			// aapt resource value: 0x7F08002C
-			public const int checkbox = 2131230764;
+			public const int center_vertical = 2131230764;
 			
 			// aapt resource value: 0x7F08002D
-			public const int chronometer = 2131230765;
+			public const int checkbox = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int clip_horizontal = 2131230766;
+			public const int chronometer = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int clip_vertical = 2131230767;
+			public const int clip_horizontal = 2131230767;
 			
 			// aapt resource value: 0x7F080030
-			public const int collapseActionView = 2131230768;
+			public const int clip_vertical = 2131230768;
 			
 			// aapt resource value: 0x7F080031
-			public const int container = 2131230769;
+			public const int collapseActionView = 2131230769;
 			
 			// aapt resource value: 0x7F080032
-			public const int content = 2131230770;
+			public const int container = 2131230770;
 			
 			// aapt resource value: 0x7F080033
-			public const int contentPanel = 2131230771;
+			public const int content = 2131230771;
 			
 			// aapt resource value: 0x7F080034
-			public const int coordinator = 2131230772;
+			public const int contentPanel = 2131230772;
+			
+			// aapt resource value: 0x7F080035
+			public const int coordinator = 2131230773;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F080035
-			public const int custom = 2131230773;
-			
 			// aapt resource value: 0x7F080036
-			public const int customPanel = 2131230774;
+			public const int custom = 2131230774;
 			
 			// aapt resource value: 0x7F080037
-			public const int decor_content_parent = 2131230775;
+			public const int customPanel = 2131230775;
 			
 			// aapt resource value: 0x7F080038
-			public const int default_activity_button = 2131230776;
+			public const int decor_content_parent = 2131230776;
 			
 			// aapt resource value: 0x7F080039
-			public const int design_bottom_sheet = 2131230777;
+			public const int default_activity_button = 2131230777;
 			
 			// aapt resource value: 0x7F08003A
-			public const int design_menu_item_action_area = 2131230778;
+			public const int design_bottom_sheet = 2131230778;
 			
 			// aapt resource value: 0x7F08003B
-			public const int design_menu_item_action_area_stub = 2131230779;
+			public const int design_menu_item_action_area = 2131230779;
 			
 			// aapt resource value: 0x7F08003C
-			public const int design_menu_item_text = 2131230780;
+			public const int design_menu_item_action_area_stub = 2131230780;
 			
 			// aapt resource value: 0x7F08003D
-			public const int design_navigation_view = 2131230781;
+			public const int design_menu_item_text = 2131230781;
 			
 			// aapt resource value: 0x7F08003E
-			public const int disableHome = 2131230782;
+			public const int design_navigation_view = 2131230782;
 			
 			// aapt resource value: 0x7F08003F
-			public const int edit_query = 2131230783;
+			public const int disableHome = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int end = 2131230784;
+			public const int edit_query = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int enterAlways = 2131230785;
+			public const int end = 2131230785;
 			
 			// aapt resource value: 0x7F080042
-			public const int enterAlwaysCollapsed = 2131230786;
+			public const int enterAlways = 2131230786;
 			
 			// aapt resource value: 0x7F080043
-			public const int exitUntilCollapsed = 2131230787;
-			
-			// aapt resource value: 0x7F080045
-			public const int expanded_menu = 2131230789;
+			public const int enterAlwaysCollapsed = 2131230787;
 			
 			// aapt resource value: 0x7F080044
-			public const int expand_activities_button = 2131230788;
+			public const int exitUntilCollapsed = 2131230788;
 			
 			// aapt resource value: 0x7F080046
-			public const int fab = 2131230790;
+			public const int expanded_menu = 2131230790;
+			
+			// aapt resource value: 0x7F080045
+			public const int expand_activities_button = 2131230789;
 			
 			// aapt resource value: 0x7F080047
 			public const int fill = 2131230791;
@@ -3794,10 +3794,13 @@ namespace BlazorDroid.Droid
 			public const int visible = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int withText = 2131230911;
+			public const int webView1 = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int wrap_content = 2131230912;
+			public const int withText = 2131230912;
+			
+			// aapt resource value: 0x7F0800C1
+			public const int wrap_content = 2131230913;
 			
 			static Id()
 			{
@@ -4238,55 +4241,58 @@ namespace BlazorDroid.Droid
 			public const int abc_toolbar_collapse_description = 2131623974;
 			
 			// aapt resource value: 0x7F0E0027
-			public const int action_settings = 2131623975;
-			
-			// aapt resource value: 0x7F0E0029
-			public const int appbar_scrolling_view_behavior = 2131623977;
+			public const int action_opb = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int app_name = 2131623976;
+			public const int action_ref = 2131623976;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int bottom_sheet_behavior = 2131623978;
+			public const int appbar_scrolling_view_behavior = 2131623978;
+			
+			// aapt resource value: 0x7F0E0029
+			public const int app_name = 2131623977;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int character_counter_content_description = 2131623979;
+			public const int bottom_sheet_behavior = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int character_counter_pattern = 2131623980;
+			public const int character_counter_content_description = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int fab_transformation_scrim_behavior = 2131623981;
+			public const int character_counter_pattern = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int fab_transformation_sheet_behavior = 2131623982;
+			public const int fab_transformation_scrim_behavior = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int hide_bottom_view_on_scroll_behavior = 2131623983;
+			public const int fab_transformation_sheet_behavior = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int mtrl_chip_close_icon_content_description = 2131623984;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int password_toggle_content_description = 2131623985;
+			public const int mtrl_chip_close_icon_content_description = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int path_password_eye = 2131623986;
+			public const int password_toggle_content_description = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int path_password_eye_mask_strike_through = 2131623987;
+			public const int path_password_eye = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int path_password_eye_mask_visible = 2131623988;
+			public const int path_password_eye_mask_strike_through = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int path_password_strike_through = 2131623989;
+			public const int path_password_eye_mask_visible = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int search_menu_title = 2131623990;
+			public const int path_password_strike_through = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int status_bar_notification_info_overflow = 2131623991;
+			public const int search_menu_title = 2131623991;
+			
+			// aapt resource value: 0x7F0E0038
+			public const int status_bar_notification_info_overflow = 2131623992;
 			
 			static String()
 			{
