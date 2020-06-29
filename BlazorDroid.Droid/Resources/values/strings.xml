@@ -1,5 +1,4 @@
 <resources>
-  <string name="app_name">BlazorDroid.Droid</string>
-  <string name="action_opb">Open In Browser</string>
-  <string name="action_ref">Refrseh</string>
+    <string name="app_name">BlazorDroid.Droid</string>
+    <string name="action_settings">Settings</string>
 </resources>
