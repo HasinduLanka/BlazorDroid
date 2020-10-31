@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BlazorDroid</string>
+    <string name="banner_id">ca-app-pub-8490212836058477/6278347245</string>
+    <string name="in_ad">Interstitial Ad</string>
+    <string name="rew_ad">Reward Ad</string>
+</resources>

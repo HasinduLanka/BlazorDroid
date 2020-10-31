@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37430060000",
+    "firebase_url": "https://blazordroid-fbio.firebaseio.com",
+    "project_id": "blazordroid-ddddd",
+    "storage_bucket": "blazordroid-ddddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:blazordroid-id-fake:android:blazordroid-id-fake",
+        "android_client_info": {
+          "package_name": "com.bitblazers.blazordroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "blazordroid-id-fake-blazordroid-id-fake.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "blazordroid-id-fake"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "blazordroid-id-fake-blazordroid-id-fake.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
