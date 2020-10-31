@@ -19,10 +19,17 @@ Blazordroid can,
  So just,
  - Try building this project, it works  
  - Find the two occurances of "https://www.towergame.app/" and replace it with your web app URL
- - Find all occurances of  *"blazordroid"* and replace it with your words  
+ - Find all occurances of  *"blazordroid"* and replace it with your words   
+ 
+ You are good to go now.  
+   
+ Futher you can,  
+ 
  - Enter your google/android/admob IDs to your own
  - Change the icon and other assests at your choice
  - Write your client app logic and request handling
+ - Manually route web app HTTP requests to your functions
+ - Use device storage and native android commands/APIs from web app
 
 Blazordroid is free and open-source to use in any commercial/non-commercial project. But just email us what you made using it. We will show it here.
 **We are curious to know what you build !**
@@ -36,3 +43,7 @@ Blazordroid is free and open-source to use in any commercial/non-commercial proj
 
  - [ ] AgraDB intergration for Agra.Native.Android for Native local databases  
  - [ ] AgraDB.Agni Firestore host intergrations at Android App side  
+ 
+ ** Developed by @[HasinduLanka](https://github.com/HasinduLanka) and @[hariwij](https://github.com/hariwij) **  
+ 
+ 
