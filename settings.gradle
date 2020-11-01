@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Vidusaviya.Maps"
+rootProject.name = "blazordroid"
