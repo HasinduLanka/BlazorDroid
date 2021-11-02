@@ -31,18 +31,13 @@ Blazordroid can,
  - Manually route web app HTTP requests to your functions
  - Use device storage and native android commands/APIs from web app
 
-Blazordroid is free and open-source to use in any commercial/non-commercial project. But just email us what you made using it. We will show it here.
+Blazordroid is free and open-source to use in any commercial/non-commercial project.
 **We are curious to know what you build !**
 
 # Made with Blazordroid
 
  - [Sithiyam Ruwa - Map marking made easy for Sri Lanka](https://play.google.com/store/apps/details?id=com.bitblazers.sithiyam)
- -  MRC School managment system app ( Under development )  
-
-# Comming soon
-
- - [ ] AgraDB intergration for Agra.Native.Android for Native local databases  
- - [ ] AgraDB.Agni Firestore host intergrations at Android App side  
+ -  MRC School managment system app
  
  ** Developed by @[HasinduLanka](https://github.com/HasinduLanka) and @[hariwij](https://github.com/hariwij) **  
  
